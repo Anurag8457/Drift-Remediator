@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+*/venv/
+.venv/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & credentials
+.env
+*.env
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
